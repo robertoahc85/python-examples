@@ -6,7 +6,8 @@
 
 # Genera un número secreto.
 # Pide al usuario que adivine el número.
-# Usa estructuras if y else para comparar la adivinanza del usuario con el número secreto.
+# Usa estructuras if y else para comparar 
+# la adivinanza del usuario con el número secreto.
 # Indica al usuario si su adivinanza es correcta o no.
 
 
